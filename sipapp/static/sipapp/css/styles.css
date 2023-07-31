@@ -1,0 +1,11 @@
+
+h1 {color: red;}
+div {
+    height: 200px;
+    width: 50%;
+    background-color: powderblue;
+  }
+  body {
+    background-image: url('../images/garden.jpg');
+    
+}
